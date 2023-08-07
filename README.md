@@ -1,8 +1,8 @@
+![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)
 <h1 align="center">Hi 👋, I'm Abdullah Makhdoom</h1>
 <h3 align="center">A passionate machine learning developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahmakhdoom&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmakhdoom" /> </p>
-![image](https://github.com/AbdullahMakhdoom/AbdullahMakhdoom/assets/30556653/f3b61d32-affb-4b57-8f1e-60dfb75a6877)
 
 - 💬 Ask me about **Deep Learning, Large-Language Models and AI/ML on AWS.**
 
