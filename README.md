@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdullahmakhdoom&label=Profile%20views&color=0e75b6&style=flat" alt="abdullahmakhdoom" /> </p>
 
-- 💬 Ask me about **Deep Learning, Large-Language Models and AI/ML on AWS.**
+- 💬 Ask me about **Deep Learning, Large-Language Models and python development.**
 
 - 📫 How to reach me **abdullahmakhdoom1998@gmail.com**
 
